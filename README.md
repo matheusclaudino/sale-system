@@ -5,11 +5,8 @@ Efetuar a construção de um sistema desktop, utilizando os conteúdos abordados
 
 **Informações do Sistema**
 
-**Nome do sistema:** 
-- Sale System
+**Nome do sistema:** Sale System
 
-**Tipo Sistema:** 
-- Venda
+**Tipo Sistema:** Venda
 
-**Linguagem de programação:** 
-- JAVA
+**Linguagem de programação:** JAVA
